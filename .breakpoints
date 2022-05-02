@@ -1,5 +1,13 @@
 {
   "files": {
+    "main.cpp": [
+      {
+        "id": "217ff8d5-8039-49a8-b558-e1c30a8796e3",
+        "line": 10,
+        "version": 14,
+        "index": 150
+      }
+    ],
     "sketch.cpp": [
       {
         "id": "c5e9b05a-9a7e-42b9-81b0-67b8ce84849d",
