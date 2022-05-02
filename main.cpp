@@ -7,6 +7,7 @@ const int DELAY_TIME = 1000.0f / FPS;
 int main(int argc, char* argv[])
 {
   //Git Test 1차
+  //Pc to Git 1차 테스트
   if (TheGame::Instance()->setup() ) 
   {
     Uint32 frameStart, frameTime;
